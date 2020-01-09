@@ -1,4 +1,7 @@
-﻿using System;
+
+//USING FACADE DESIGN PATTERN
+
+using System;
 using PlayChess.Engine;
 using PlayChess.Engine.Contracts;
 using PlayChess.Engine.Initializations;
