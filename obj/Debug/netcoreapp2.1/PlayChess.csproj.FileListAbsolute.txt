@@ -1,0 +1,11 @@
+D:\PlayChess\PlayChess\bin\Debug\netcoreapp2.1\PlayChess.deps.json
+D:\PlayChess\PlayChess\bin\Debug\netcoreapp2.1\PlayChess.runtimeconfig.json
+D:\PlayChess\PlayChess\bin\Debug\netcoreapp2.1\PlayChess.runtimeconfig.dev.json
+D:\PlayChess\PlayChess\bin\Debug\netcoreapp2.1\PlayChess.dll
+D:\PlayChess\PlayChess\bin\Debug\netcoreapp2.1\PlayChess.pdb
+D:\PlayChess\PlayChess\obj\Debug\netcoreapp2.1\PlayChess.csproj.CoreCompileInputs.cache
+D:\PlayChess\PlayChess\obj\Debug\netcoreapp2.1\PlayChess.AssemblyInfoInputs.cache
+D:\PlayChess\PlayChess\obj\Debug\netcoreapp2.1\PlayChess.AssemblyInfo.cs
+D:\PlayChess\PlayChess\obj\Debug\netcoreapp2.1\PlayChess.dll
+D:\PlayChess\PlayChess\obj\Debug\netcoreapp2.1\PlayChess.pdb
+D:\PlayChess\PlayChess\obj\Debug\netcoreapp2.1\PlayChess.csprojAssemblyReference.cache
